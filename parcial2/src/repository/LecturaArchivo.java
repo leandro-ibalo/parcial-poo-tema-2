@@ -66,7 +66,7 @@ public class LecturaArchivo {
 	    } catch (IOException e) {
 	        System.out.println("error al leer el archvio");
 	    } catch (NumberFormatException e) {
-	        System.out.println("error en el archivo);
+	        System.out.println("error en el archivo");
 	    }
 
 	    return lista;
